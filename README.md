@@ -12,6 +12,9 @@
   Video not supported, update your browser
 </video>
 
+
+
+
 * **Symbol Swapper:** Automatically replaces "Light" symbols with their "Dark" counterparts.
 * **Recursive Style Switcher:** Updates Shared Styles for vector shapes, groups, and stacks, no matter how deep they are nested.
 * **Smart Detection:** Skips layers that are already in the target theme to prevent redundant operations.
