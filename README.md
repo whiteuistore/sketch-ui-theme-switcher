@@ -1,3 +1,5 @@
+<img src="https://github.com/whiteuistore/sketch-ui-theme-switcher/blob/b0225bb57c439505e20f98c1cd8c72ca6c1712bd/assets/Plugin%20Cover.png" alt="UI Theme Switcher for Sketch">
+
 # UI Theme Switcher for Sketch 🎨
 
 **UI Theme Switcher** is a professional Sketch plugin designed to automate the transition between Light and Dark themes. It intelligently swaps Symbol Instances and Shared Styles across your Artboards based on your naming conventions.
@@ -5,6 +7,10 @@
 ---
 
 ## 🚀 Features
+
+<video src="https://github.com/whiteuistore/sketch-ui-theme-switcher/blob/b0225bb57c439505e20f98c1cd8c72ca6c1712bd/assets/UI-Theme-Switcher.mov" controls>
+  Video not supported, update your browser
+</video>
 
 * **Symbol Swapper:** Automatically replaces "Light" symbols with their "Dark" counterparts.
 * **Recursive Style Switcher:** Updates Shared Styles for vector shapes, groups, and stacks, no matter how deep they are nested.
