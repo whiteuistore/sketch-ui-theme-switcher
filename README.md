@@ -8,7 +8,7 @@
 
 ## 🚀 Features
 
-<video src="https://github.com/whiteuistore/sketch-ui-theme-switcher/blob/b0225bb57c439505e20f98c1cd8c72ca6c1712bd/assets/UI-Theme-Switcher.mov">
+<video src="https://github.com/whiteuistore/sketch-ui-theme-switcher/raw/b0225bb57c439505e20f98c1cd8c72ca6c1712bd/assets/UI-Theme-Switcher.mov">
   Video not supported, update your browser
 </video>
 
