@@ -1,0 +1,56 @@
+{
+  "name": "UI Theme Switcher",
+  "identifier": "com.whiteuistore.ui-theme-switcher",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "description": "Automatically swap symbols and styles between Light and Dark themes based on their names.",
+  "author": "WhiteUI.Store",
+  "homepage": "https://www.whiteui.store/",
+  "commands": [
+    {
+      "name": "Switch Symbols to Dark Theme",
+      "identifier": "switch-to-dark",
+      "script": "switch-to-dark.js"
+    },
+    {
+      "name": "Switch Symbols to Light Theme",
+      "identifier": "switch-to-light",
+      "script": "switch-to-light.js"
+    },
+    {
+      "name": "Switch Styles to Dark Theme",
+      "identifier": "switch-styles-dark",
+      "script": "switch-styles-to-dark.js"
+    },
+    {
+      "name": "Switch Styles to Light Theme",
+      "identifier": "switch-styles-light",
+      "script": "switch-styles-to-light.js"
+    },
+    {
+      "name": "Visit WhiteUI.Store",
+      "identifier": "visit-store",
+      "script": "visit-store.js",
+      "handler": "onRun"
+    },
+    {
+      "name": "Donate",
+      "identifier": "donate-link",
+      "script": "donate.js",
+      "handler": "onRun"
+    }
+  ],
+  "menu": {
+    "title": "UI Theme Switcher",
+    "items": [
+      "switch-to-dark",
+      "switch-to-light",
+      "-",
+      "switch-styles-dark",
+      "switch-styles-light",
+      "-",
+      "visit-store",
+      "donate-link"
+    ]
+  }
+}
