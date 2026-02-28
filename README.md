@@ -66,6 +66,11 @@ The same logic applies to Shared Styles for shapes and groups:
     * `Switch Styles to Dark/Light`: Recursively updates all vector styles inside your selection.
 4.  **Check Results:** A message will appear at the bottom of the screen. If any symbols/styles are missing, a detailed alert will show you exactly what needs to be added to your library.
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/a522ff6b-2ff3-49e6-a915-a961dc6494cc" width="100%" controls>
+  </video>
+</p>
+
 ---
 
 ## ☕ Support & Resources
