@@ -8,17 +8,21 @@
 
 ## 🚀 Features
 
-<video src="https://github.com/whiteuistore/sketch-ui-theme-switcher/raw/b0225bb57c439505e20f98c1cd8c72ca6c1712bd/assets/UI-Theme-Switcher.mov">
-  Video not supported, update your browser
-</video>
-
-
-
 
 * **Symbol Swapper:** Automatically replaces "Light" symbols with their "Dark" counterparts.
 * **Recursive Style Switcher:** Updates Shared Styles for vector shapes, groups, and stacks, no matter how deep they are nested.
 * **Smart Detection:** Skips layers that are already in the target theme to prevent redundant operations.
 * **Detailed Feedback:** Provides alerts if a matching symbol or style is missing from your document or library.
+
+
+---
+## ℹ️ How it works
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/a11f28a6-0732-4ffa-b8d3-36216ad741ed" width="100%" controls>
+  </video>
+</p>
+
 
 ---
 
