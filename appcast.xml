@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>UI Theme Switcher Appcast</title>
-    <link>https://raw.githubusercontent.com/whiteuistore/sketch-ui-theme-switcher/main/appcast.xml</link>
-    <description>Switch between Light and Dark themes in Sketch.</description>
+    <link>https://github.com/whiteuistore/sketch-ui-theme-switcher</link>
+    <description>Quickly switch between Light and Dark themes in Sketch using Color Variables and Shared Styles.</description>
     <language>en</language>
     <item>
       <title>v1.0.0</title>
-      <description>Initial release of UI Theme Switcher.</description>
+      <description>Initial release: Switch between Light and Dark themes using Color Variables and Shared Styles.</description>
       <pubDate>Sat, 28 Feb 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/whiteuistore/sketch-ui-theme-switcher/releases/download/v1.0.0/UI-Theme-Switcher.zip" sparkle:version="1.0.0" type="application/octet-stream" />
+      <enclosure url="https://github.com/whiteuistore/sketch-ui-theme-switcher/releases/download/v1.0.0/sketch-ui-theme-switcher.zip" sparkle:version="1.0.0" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
