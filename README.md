@@ -21,7 +21,7 @@
 
 ### 1. Generate a new frame (artboard) 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/a11f28a6-0732-4ffa-b8d3-36216ad741ed" width="100%" controls>
+  <video src="https://github.com/user-attachments/assets/51c7a9ed-f2fa-4ce1-8b78-7b95aa1f79c1" width="100%" controls>
   </video>
 </p>
 
