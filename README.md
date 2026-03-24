@@ -10,6 +10,7 @@
 
 
 * **Symbol Swapper:** Automatically replaces "Light" symbols with their "Dark" counterparts.
+* **New Frames/Artboards:** Generate new frames with automatically applied "Light" symbols with their "Dark" counterparts.
 * **Recursive Style Switcher:** Updates Shared Styles for vector shapes, groups, and stacks, no matter how deep they are nested.
 * **Smart Detection:** Skips layers that are already in the target theme to prevent redundant operations.
 * **Detailed Feedback:** Provides alerts if a matching symbol or style is missing from your document or library.
@@ -18,6 +19,13 @@
 ---
 ## ℹ️ How it works
 
+### 1. Generate a new frame (artboard) 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/a11f28a6-0732-4ffa-b8d3-36216ad741ed" width="100%" controls>
+  </video>
+</p>
+
+### 2. Switch pre-made styles and symbols
 <p align="center">
   <video src="https://github.com/user-attachments/assets/a11f28a6-0732-4ffa-b8d3-36216ad741ed" width="100%" controls>
   </video>
