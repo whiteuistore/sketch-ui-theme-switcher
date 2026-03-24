@@ -1,12 +1,24 @@
 {
   "name": "UI Theme Switcher",
   "identifier": "com.whiteuistore.ui-theme-switcher",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "icon": "icon.png",
   "description": "Automatically swap symbols and styles between Light and Dark themes based on their names.",
   "author": "WhiteUI.Store",
-  "homepage": "https://www.whiteui.store/",
+  "authorEmail": "support@whiteui.store",
+  "homepage": "https://github.com/whiteuistore/sketch-ui-theme-switcher",
+  "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-ui-theme-switcher/main/appcast.xml",
   "commands": [
+    {
+      "name": "Generate a new Frame with Dark Theme",
+      "identifier": "frame-to-dark",
+      "script": "generate-frame-to-dark.js"
+    },
+    {
+      "name": "Generate a new Frame with Light Theme",
+      "identifier": "frame-to-light",
+      "script": "generate-frame-to-light.js"
+    },
     {
       "name": "Switch Symbols to Dark Theme",
       "identifier": "switch-to-dark",
@@ -43,6 +55,9 @@
   "menu": {
     "title": "UI Theme Switcher",
     "items": [
+      "frame-to-dark",
+      "frame-to-light",
+      "-",
       "switch-to-dark",
       "switch-to-light",
       "-",
