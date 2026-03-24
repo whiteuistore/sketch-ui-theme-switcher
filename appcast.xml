@@ -3,8 +3,14 @@
   <channel>
     <title>UI Theme Switcher Appcast</title>
     <link>https://github.com/whiteuistore/sketch-ui-theme-switcher</link>
-    <description>Quickly switch between Light and Dark themes in Sketch using Color Variables and Shared Styles.</description>
+    <description>Quickly switch/generate between Light and Dark themes in Sketch using Color Variables and Shared Styles.</description>
     <language>en</language>
+    <item>
+      <title>v2.0.0</title>
+      <description>Update: Generate frames with Light and Dark themes.</description>
+      <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/whiteuistore/sketch-ui-theme-switcher/releases/download/v2.0.0/UI-Theme-Switcher.zip" sparkle:version="2.0.0" type="application/octet-stream" />
+    </item>
     <item>
       <title>v1.0.0</title>
       <description>Initial release: Switch between Light and Dark themes using Color Variables and Shared Styles.</description>
