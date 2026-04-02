@@ -87,6 +87,7 @@ If you find this plugin helpful, feel free to explore more resources or support 
 
 * **Official Website:** [WhiteUI.Store](https://www.whiteui.store/)
 * **Support the Project:** [Buy Me a Coffee](https://buymeacoffee.com/whiteuistore)
+* **Sketch Plugins:** [See more Sketch Plugins](https://www.whiteui.store/sketch-plugins)
 
 ---
 
